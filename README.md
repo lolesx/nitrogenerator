@@ -1,9 +1,17 @@
 # Nitro Generator
-Créer un générateur nitro
+Le générateur de Nitro par Loles
 
-Créer un dossier sur votre bureau qui s'appelle Nitro,
-Ouvrez VISUAL STUDIO CODE,
-Ouvrez le dossier Nitro avec VISUAL STUDIO CODE,
-Créez un dossier s'appelant main.py et un autre s'appelant nitros.txt,
-Copier-coller le texte joint dans main.py,
-Cliquez sur RUN PYTHON FILE et ça vous génerera des url discord nitro.
+Prérequis : Python 3.7 ou supérieur et visual studio code.
+
+Pour commencer, téléchargez le fichier : Nitro Gen.
+Ensuite, ouvrez le fichier avec Visual studio code.
+Et vous pouvez cliquer à droite de votre ecran ou il y a écrit "Run Python File" et appuyer sur la poubelle pour l'arreter.
+
+# fortnitecode
+Le générateur de vbucks par Loles
+
+Prérequis : Python 3.7 ou supérieur et visual studio code.
+
+Pour commencer, téléchargez le fichier : Fortnitegen.
+Ensuite, ouvrez le fichier avec Visual studio code.
+Et vous pouvez cliquer à droite de votre ecran ou il y a écrit "Run Python File" et appuyer sur la poubelle pour l'arreter.
